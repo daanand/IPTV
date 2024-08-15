@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Polimer.live" tvg-name="LIVE:Polimer News" group-title="All", LIVE:Polimer News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8?hdnts=st=1723726738~exp=1723730338~acl=!*/110322/polimernews/*!yuppTVCom_5_-1_e43dd01ff4d54248_US_172.183.191.133/payload/yuppTVCom_5_-1_e43dd01ff4d54248_US_172.183.191.133/*~hmac=61460670eb5a3d59f5f1e027a19e4cc2f76332bfb303632fd712ce0eef1ee7bc&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=3345&ads.channel_name=PolimerNews&ads.network_name=yupptv&ads.user=0
+
+#EXTINF:-1 tvg-id="puthiyathalaimurai.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8?hdnts=st=1723726739~exp=1723730339~acl=!*/240122/puthiya/*!yuppTVCom_5_-1_853c258df54544ea_US_172.183.191.133/payload/yuppTVCom_5_-1_853c258df54544ea_US_172.183.191.133/*~hmac=677c945cc2f53b3d24639c3bbd45309930b4bfc3c1cc648988049202c8bea779&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=1247&ads.channel_name=PuthiyaThalaimurai&ads.network_name=yupptv&ads.user=0
+
+#EXTINF:-1 tvg-id="Thanthi.live" tvg-name="Thanthi News" group-title="All", Thanthi News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/thanthi_nim_https/110322/thanthi/playlist.m3u8?hdnts=st=1723726739~exp=1723730339~acl=!*/110322/thanthi/*!yuppTVCom_5_-1_602196070c894cf6_US_172.183.191.133/payload/yuppTVCom_5_-1_602196070c894cf6_US_172.183.191.133/*~hmac=086d4e8837241af4fcd10b3f626e9d6857060b0048d056e342b55b97d7a75bce&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=214&ads.channel_name=ThanthiTV&ads.network_name=yupptv&ads.user=0
+
+#EXTINF:-1 tvg-id="News7.live" tvg-name="News7" group-title="All", News7
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8?hdnts=st=1723726740~exp=1723730340~acl=!*/240122/news7/*!yuppTVCom_5_-1_26be3be034db4f2f_US_172.183.191.133/payload/yuppTVCom_5_-1_26be3be034db4f2f_US_172.183.191.133/*~hmac=d50ae6b520dcdfec77b55b0d787e0055bb762a640090833369a1b3412407d2c3&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=2248&ads.channel_name=News7Tamil&ads.network_name=yupptv&ads.user=0
+
+#EXTINF:-1 tvg-id="SunNews.live" tvg-name="LIVE : Sun News Live" group-title="All", LIVE : Sun News Live
+https://ythls-v3.onrender.com/video/9M02G5c6x6w.m3u8
+
+#EXTINF:-1 tvg-id="news18.live" tvg-name="LIVE:News18 Tamil Nadu" group-title="All", LIVE:News18 Tamil Nadu
+https://ythls-v3.onrender.com/video/lnHtG9YLqo4.m3u8
+
+#EXTINF:-1 tvg-id="newstamil.live" tvg-name="LIVE : Today Headlines" group-title="All", LIVE : Today Headlines
+https://ythls-v3.onrender.com/video/XZu2dzBtqgw.m3u8
