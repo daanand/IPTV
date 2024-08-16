@@ -1,22 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Polimer.live" tvg-name="LIVE:Polimer News" group-title="All", LIVE:Polimer News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://ythls-v3.onrender.com/video/sx30WIsIlg8.m3u8
 
 #EXTINF:-1 tvg-id="puthiyathalaimurai.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://ythls-v3.onrender.com/video/RUzgphgBRzI.m3u8
 
 #EXTINF:-1 tvg-id="Thanthi.live" tvg-name="Thanthi News" group-title="All", Thanthi News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://ythls-v3.onrender.com/video/j1nzTy5q_1Y.m3u8
 
 #EXTINF:-1 tvg-id="News7.live" tvg-name="News7" group-title="All", News7
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://ythls-v3.onrender.com/video/yR38-6I8Nz0.m3u8
 
 #EXTINF:-1 tvg-id="SunNews.live" tvg-name="LIVE : Sun News Live" group-title="All", LIVE : Sun News Live
 https://ythls-v3.onrender.com/video/9M02G5c6x6w.m3u8
 
 #EXTINF:-1 tvg-id="news18.live" tvg-name="LIVE:News18 Tamil Nadu" group-title="All", LIVE:News18 Tamil Nadu
 https://ythls-v3.onrender.com/video/lnHtG9YLqo4.m3u8
-
-#EXTINF:-1 tvg-id="newstamil.live" tvg-name="LIVE : Today Headlines" group-title="All", LIVE : Today Headlines
-https://ythls-v3.onrender.com/video/XZu2dzBtqgw.m3u8
