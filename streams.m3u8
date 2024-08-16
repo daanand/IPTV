@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Polimer.live" tvg-name="LIVE:Polimer News" group-title="All", LIVE:Polimer News
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8?hdnts=st=1723770405~exp=1723774005~acl=!*/110322/polimernews/*!yuppTVCom_5_-1_8094ec43ca684ba7_US_13.64.68.80/payload/yuppTVCom_5_-1_8094ec43ca684ba7_US_13.64.68.80/*~hmac=b6c47e0f6d4bc129f335df910aa1103170cc2404bf3909d34e160d0aa4e633c4&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=3345&ads.channel_name=PolimerNews&ads.network_name=yupptv&ads.user=0
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="puthiyathalaimurai.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8?hdnts=st=1723770405~exp=1723774005~acl=!*/240122/puthiya/*!yuppTVCom_5_-1_7d03542f4f5e499c_US_13.64.68.80/payload/yuppTVCom_5_-1_7d03542f4f5e499c_US_13.64.68.80/*~hmac=bf2e07709f6eb7bcebcae2d331743e4783d7b13fabab6e419c9ac7eb2bcb4e6b&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=1247&ads.channel_name=PuthiyaThalaimurai&ads.network_name=yupptv&ads.user=0
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Thanthi.live" tvg-name="Thanthi News" group-title="All", Thanthi News
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/thanthi_nim_https/110322/thanthi/playlist.m3u8?hdnts=st=1723770406~exp=1723774006~acl=!*/110322/thanthi/*!yuppTVCom_5_-1_983d700a350e4489_US_13.64.68.80/payload/yuppTVCom_5_-1_983d700a350e4489_US_13.64.68.80/*~hmac=b0ee1b55fff63cb80025be814b63869efcad2dd634ac2f3350bcee5e1dd08f26&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=214&ads.channel_name=ThanthiTV&ads.network_name=yupptv&ads.user=0
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="News7.live" tvg-name="News7" group-title="All", News7
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8?hdnts=st=1723770407~exp=1723774007~acl=!*/240122/news7/*!yuppTVCom_5_-1_fbfa0c58b8c3459a_US_13.64.68.80/payload/yuppTVCom_5_-1_fbfa0c58b8c3459a_US_13.64.68.80/*~hmac=b057d480d4f9fa4fa3beb0e3237f74d50bac73c123deb9d32762f73865b3a52f&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=2248&ads.channel_name=News7Tamil&ads.network_name=yupptv&ads.user=0
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="SunNews.live" tvg-name="LIVE : Sun News Live" group-title="All", LIVE : Sun News Live
 https://ythls-v3.onrender.com/video/9M02G5c6x6w.m3u8
