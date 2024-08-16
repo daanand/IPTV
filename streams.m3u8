@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Polimer.live" tvg-name="LIVE:Polimer News" group-title="All", LIVE:Polimer News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1723823674/ei/2iG_ZtL2GJSCg8UPlOKeoQY/ip/162.158.106.51/id/sx30WIsIlg8.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsrnzd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9lYn8XxZXFaBYOs_dC1abQij2At8EwU1E9PNB2dq1q1h5r5iCF3r2hpMGMU/vprv/1/playlist_type/DVR/initcwndbps/1037500/mh/mP/mip/172.183.241.246/mm/44/mn/sn-vgqsrnzd/ms/lva/mv/m/mvi/4/pl/17/dover/11/pacing/0/keepalive/yes/mt/1723802926/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgLGRnpdXGP27DdrAxumvLqL66gE2mYVpFAlCuVNWnbQ0CIAC6RgV9rT0LiVH_S5C5d5iH3z4i_PuUROw-SaDJ8GiY/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRgIhAIP1vNxYl3B55WcWB8_BsrSLAkFrcwHdhhLNG1Q3uOfrAiEAh-VrpKe9fc39HG89d7zmF_1hu_UQNrijrPzK0Qo7GEQ%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="puthiyathalaimurai.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
