@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Polimer.live" tvg-name="Polimer News" group-title="All", Polimer News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1723925629/ei/HbDAZqyVN_-d4t4Pks6a0Qw/ip/172.69.166.6/id/sx30WIsIlg8.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqsrnzd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9l0a4HrVoiQ-xju6jJ8wv2EGo0jtHM6SU6tjQYFju44umqll6R1OXDY6JsA/vprv/1/playlist_type/DVR/mh/mP/mip/20.102.212.126/mm/44/mn/sn-vgqsrnzd/ms/lva/mv/u/mvi/4/pl/22/dover/11/pacing/0/keepalive/yes/mt/1723903570/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAK_qKhPw8uzyaKIKEsmnz-5DQvizUCs0ScjNx-n6B4qMAiEApFHsv5AaZpTmm-u-lrQAqPDVHA9EdEqg2ZvVte-Gvm4%3D/lsparams/hls_chunk_host,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIgdRO63Jw1I0BvYgV1KrtX70XYlmfl57j6JSXH5XLIwa8CIQDh1lNLhBDxvRti0lfRI5zgWvHQPB7RrrS285derE0SVQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="SunNews.live" tvg-name="Sun News" group-title="All", Sun News
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="puthiyathalaimurai.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1723925631/ei/H7DAZvKtL8a3rtoP4_3toAY/ip/172.70.142.251/id/RUzgphgBRzI.494/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsrnek.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9sJtAsUaTR5dzXvEJ6nWqrtFb6ius6Z00RP2eYs2Q0Cyt4pNs04faI4ndVc/vprv/1/playlist_type/DVR/mh/m7/mip/20.102.212.126/mm/44/mn/sn-vgqsrnek/ms/lva/mv/u/mvi/5/pl/22/dover/11/pacing/0/keepalive/yes/mt/1723903570/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgPJWKp7yLVe74eERQC9VlsXBLQa9IBUvyfCJdYVLc2koCIQCdTTTkMvlLcshZUnuif9k7_ebTNG6bQWG4Eji1O8qT7g%3D%3D/lsparams/hls_chunk_host,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIgNBqWqoIXM_QycqFoufXWqPEcQC6VICe69SujYGu53GECIQC00jv-BtmrLAPl4WeiUbCGCZTndVYhxRi2HjOoupYHiQ%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="Thanthi.live" tvg-name="Thanthi News" group-title="All", Thanthi News
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
