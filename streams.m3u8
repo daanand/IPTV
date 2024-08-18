@@ -4,7 +4,7 @@
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="SunNews.live" tvg-name="Sun News" group-title="All", Sun News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1723972544/ei/YGfBZtvHCaGNg8UPx7ziiAU/ip/172.68.242.79/id/9M02G5c6x6w.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr6---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9vyToOX8SwXMRJmUOON7s-frKpOuYSSgpceN2jHaqCoSgLbrF41qVW962nk/vprv/1/playlist_type/DVR/mh/6r/mip/172.174.166.208/mm/44/mn/sn-4o/ms/lva/mv/u/mvi/6/pl/22/dover/11/pacing/0/keepalive/yes/mt/1723949842/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgBtN6uZfDuow_lEsWWXTAIuWuHscVXDAljdaYpeFBi3gCIQDbpAUQXZg-h5PXmloDF75CJ2Lg8LN8zLV5tUPi2dy0Sw%3D%3D/lsparams/hls_chunk_host,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRgIhAKqKbPZgnfMArqnTIW6Vxqn7slpHCotxQ72703rE6GvxAiEAlpUDARCFEnV8d-L6mshcwL_SyccE2ky294LxRLgqoNQ%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="puthiyathalaimurai.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
