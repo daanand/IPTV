@@ -4,13 +4,13 @@
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="sunnews.live" tvg-name="Sun News" group-title="All", Sun News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1724072978/ei/su_CZv_7G4DXjuMP58mPsA4/ip/162.158.107.63/id/9M02G5c6x6w.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qs7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9nqvt6YV3gAtGWaQi9ZJwjwDFSmC1SI21_Y2UhCWASVPmkkoSbNtJpE5F64/vprv/1/playlist_type/DVR/mh/6r/mip/20.109.87.48/mm/44/mn/sn-p5qs7nzk/ms/lva/mv/u/mvi/2/pl/20/dover/11/pacing/0/keepalive/yes/mt/1724050254/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPgNIptEnMclZCDK3IavOx9IfOYmjmprO5jO6pXr-H1qAiAhJaMZpXUWSBDCImOOhMo5aa1shXxFm2lAFwy4miL3xQ%3D%3D/lsparams/hls_chunk_host,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRgIhAMk-seZue9pHsITDH7l4sI_ho9dXkajogAcsLswyE-PXAiEAyWBCZ6L-CCaQqaE6vR6lGiVryUcROHVqcnrbSeXfBIQ%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="puthiyathalaimurainews.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="thanthinews.live" tvg-name="Thanthi News" group-title="All", Thanthi News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1724072980/ei/tO_CZraUFJ-pjuMPl96HsAU/ip/162.158.106.167/id/j1nzTy5q_1Y.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr7---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9hWizrRl126B_NWt_VRH2u-pdXMlEZGcUfV1_iecN8x9pSJ9Yj0knOlPE1E/vprv/1/playlist_type/DVR/mh/r3/mip/20.109.87.48/mm/44/mn/sn-4o/ms/lva/mv/u/mvi/7/pl/20/dover/11/pacing/0/keepalive/yes/mt/1724050254/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALz0wzj5OcZuQqzK362vzIo8BfgHd8sHr5j2AF0ReYRVAiAsnSVEAU5Y-88pA__-sk7PoGcSBEklnO7HRbHoxPTH5Q%3D%3D/lsparams/hls_chunk_host,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRAIgNUiaAtoBNynGCFddYljV23s_GCiKGOXqQhz4rc5vtUACIDPcH2t4yg4pU08z9ghPe3xjwBw-I_EhXxXoSzNRp78R/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="news18.live" tvg-name="News18" group-title="All", News18
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
