@@ -10,7 +10,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="thanthinews.live" tvg-name="Thanthi News" group-title="All", Thanthi News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1724213225/ei/iRPFZvf-Fc7t4-EPodeLyAk/ip/172.68.242.79/id/j1nzTy5q_1Y.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-o097znsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/Mv1m9lnz3MZ0zp4tnnpH4l5ADA_XlwS9JmJMhsjIhX9mPxZaIYEYNE9gR42yuqY/vprv/1/playlist_type/DVR/mh/r3/mip/52.157.10.161/mm/44/mn/sn-o097znsk/ms/lva/mv/u/mvi/2/pl/18/dover/11/pacing/0/keepalive/yes/mt/1724191082/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPh0XhkKiT7GNOrQTCMOrjf4I0Tyz9CtGeS5sEXTnKv6AiEA-dbMcXibgXOrcOXtxrjN8ZGpurO804-OtycJz8Jcw9U%3D/lsparams/hls_chunk_host,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIhAMl0_7bTuf_vEzOWg-bixp51xutmEXbrOzhVbCx3fhLJAiASF-ybmnS4KrVExuntHlGYrJXoCQwKesIPxCz6B4xnrw%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="news18.live" tvg-name="News18" group-title="All", News18
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
