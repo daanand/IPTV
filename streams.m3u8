@@ -11,6 +11,3 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 
 #EXTINF:-1 tvg-id="thanthinews.live" tvg-name="Thanthi News" group-title="All", Thanthi News
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
-
-#EXTINF:-1 tvg-id="news18.live" tvg-name="News18" group-title="All", News18
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
