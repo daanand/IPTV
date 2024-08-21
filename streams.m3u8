@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="polimernews.live" tvg-name="Polimer News" group-title="All", Polimer News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://ythls-v3.onrender.com/video/qQi0rd2Iap0.m3u8
 
 #EXTINF:-1 tvg-id="sunnews.live" tvg-name="Sun News" group-title="All", Sun News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://ythls-v3.onrender.com/video/9M02G5c6x6w.m3u8
 
 #EXTINF:-1 tvg-id="puthiyathalaimurainews.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://ythls-v3.onrender.com/video/RUzgphgBRzI.m3u8
 
 #EXTINF:-1 tvg-id="thanthinews.live" tvg-name="Thanthi News" group-title="All", Thanthi News
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://ythls-v3.onrender.com/video/j1nzTy5q_1Y.m3u8
