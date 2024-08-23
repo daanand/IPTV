@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="polimernews.live" tvg-name="Polimer News" group-title="All", Polimer News
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+
+#EXTINF:-1 tvg-id="sunnews.live" tvg-name="Sun News" group-title="All", Sun News
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+
+#EXTINF:-1 tvg-id="puthiyathalaimurainews.live" tvg-name="Puthiya thalaimurai News" group-title="All", Puthiya thalaimurai News
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+
+#EXTINF:-1 tvg-id="thanthinews.live" tvg-name="Thanthi News" group-title="All", Thanthi News
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
